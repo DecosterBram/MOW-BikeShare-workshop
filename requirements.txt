@@ -9,4 +9,4 @@ pandas==2.1.4
 scikit-learn==1.4.0
 azure-storage-blob
 azure-identity
-ipython-extensions
+shap
